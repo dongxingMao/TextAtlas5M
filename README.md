@@ -9,7 +9,9 @@ TextAtlas5M includes a diverse and complex range of data. It spans from interlea
 ![topic_pie_chart](https://github.com/user-attachments/assets/9e3d97f6-7bc0-45a5-80a2-6cf090c0e9bd)
 
 ## Generation Pipeline
+TextScenesHQ Pipeline
 ![HQpipeline](https://github.com/user-attachments/assets/15e8b4be-9c8e-40f4-8314-2b7ce8f8cdac)
+StyledTextSynth Pipeline
 ![MQpipeline](https://github.com/user-attachments/assets/f51ef948-3947-441d-9065-89e23c11ec7c)
 
 
@@ -26,4 +28,4 @@ TextAtlas5M includes a diverse and complex range of data. It spans from interlea
 | TextAtlas5M                                                  | 5M      | Caption/OCR | Real&Synthetic Image | Auto/Human | 148.82       |
 
 ## Examples
-
+![MQpipeline](https://github.com/Carrot0729/hwmsRepo/blob/main/data-display-overall-w-ann-v2.svg)

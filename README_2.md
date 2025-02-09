@@ -114,3 +114,30 @@ text-related information), and topic.
 [//]: # (## Examples)
 
 [//]: # (![MQpipeline]&#40;https://github.com/Carrot0729/hwmsRepo/blob/main/data-display-overall-w-ann-v2.svg&#41;)
+
+
+## License
+
+[//]: # (- the new contributions of mmc4 beyond text-only c4 &#40;e.g., the similarity matrices/image-text alignments&#41; are released under [ODC-BY]&#40;https://opendatacommons.org/licenses/by/1-0/&#41;.)
+
+[//]: # (- By using mmc4, be aware of that you are also bound by the [Common Crawl terms of use]&#40;https://commoncrawl.org/terms-of-use/&#41;.)
+
+## Citation
+
+If you found our work useful, please consider citing:
+```
+
+```
+
+[//]: # (@article{zhu2023multimodal,)
+
+[//]: # (  title={{Multimodal C4}: An Open, Billion-scale Corpus of Images Interleaved With Text},)
+
+[//]: # (  author={Wanrong Zhu and Jack Hessel and Anas Awadalla and Samir Yitzhak Gadre and Jesse Dodge and Alex Fang and Youngjae Yu and Ludwig Schmidt and William Yang Wang and Yejin Choi},)
+
+[//]: # (  journal={arXiv preprint arXiv:2304.06939},)
+
+[//]: # (  year={2023})
+
+[//]: # (})
+

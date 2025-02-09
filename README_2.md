@@ -10,20 +10,21 @@
 
 ## Data Level, Datasets, and Annotations Overview
 
-| Data Split       | Dataset Name        | #Samples    | Annotations                    | Type               | Token Length      |
-|------------------|---------------------|-------------|--------------------------------|--------------------|-------------------|
-| Synthetic Images | CleanTextSynth      | 1,907,721   | Real Text                      | Pure Text          | 70.70             |
-| Synthetic Images | TextVisionBlend     | 0.5M        | Parsed json+BLIP Caption       | Pure Text          | 265.62            | 
-| Synthetic Images | StyledTextSynth     | ∼ 0.5M      | Human+ QWEN+Intern-VL          | Synthetic Image    | 90.00             |
-| ---------------- | ------------------- | ----------- | ------------------------------ | ------------------ | ----------------- |
-| Real Images      | PPT2Details         | 298565      | QWEN2-VL Caption               | Powerpoint Image   | 121.97            |
-| Real Images      | PPT2Structured      | 96457       | Parsed json+QWEN2-VL Caption   | Powerpoint Image   | 774.67            |
-| Real Images      | LongWordsSubset-A   | 266534      | Caption + OCR                  | Real Image         | 38.57             |
-| Real Images      | LongWordsSubset-M   | 1299992     | Caption + OCR                  | Real Image         | 34.07             |
-| Real Images      | Cover Book          | 207566      | Name + Author + Category       | Real Image         | 28.01             |
-| Real Images      | Paper2Text          | 2M          | PyMuPdf phrased Text           | Pure Text          | 28.01             |
-| Real Images      | TextScenesHQ        | ∼ 0.5M      | Human+Llama+Qwen+GPT4o         | Real Image         | 120.81            |
-| In Total         | TextAtlas5M 5M      | 5M          | -                              | -                  | 148.82            |
+| Data Split       | Dataset Name        | #Samples    | Annotations                    | Type               | Token Length      | Is Structure |
+|------------------|---------------------|-------------|--------------------------------|--------------------|-------------------|--------------|
+| Synthetic Images | CleanTextSynth      | 1,907,721   | Real Text                      | Pure Text          | 70.70             |              |
+| Synthetic Images | TextVisionBlend     | 0.5M        | Parsed json+BLIP Caption       | Pure Text          | 265.62            |              | 
+| Synthetic Images | StyledTextSynth     | ∼ 0.5M      | Human+ QWEN+Intern-VL          | Synthetic Image    | 90.00             |              |
+| ---------------- | ------------------- | ----------- | ------------------------------ | ------------------ | ----------------- | ------------ |
+| Real Images      | PPT2Details         | 298565      | QWEN2-VL Caption               | Powerpoint Image   | 121.97            |              |
+| Real Images      | PPT2Structured      | 96457       | Parsed json+QWEN2-VL Caption   | Powerpoint Image   | 774.67            |              |
+| Real Images      | LongWordsSubset-A   | 266534      | Caption + OCR                  | Real Image         | 38.57             |              |
+| Real Images      | LongWordsSubset-M   | 1299992     | Caption + OCR                  | Real Image         | 34.07             |              |
+| Real Images      | Cover Book          | 207566      | Name + Author + Category       | Real Image         | 28.01             |              |
+| Real Images      | Paper2Text          | 2M          | PyMuPdf phrased Text           | Pure Text          | 28.01             |              |
+| Real Images      | TextScenesHQ        | ∼ 0.5M      | Human+Llama+Qwen+GPT4o         | Real Image         | 120.81            |              |
+| In Total         | TextAtlas5M 5M      | 5M          | -                              | -                  | 148.82            |              |
+
 
 ## Accessing TextAtlas5M
 

@@ -9,7 +9,7 @@
 
 <h3 align="center"> A Large-scale Dataset for Dense Text Image Generation</h3>
 
-<h4 align="center"> <a [**🌐 Homepage**](https://mmmu-benchmark.github.io/) | [**🏆 Leaderboard**](https://mmmu-benchmark.github.io/#leaderboard) | [**🤗 TextAtlas**](https://huggingface.co/datasets/MMMU/MMMU_Pro) | [**📖 TextAtlas arXiv**](https://arxiv.org/abs/2409.02813)  </a></h4>
+[**🌐 Homepage**](https://mmmu-benchmark.github.io/) | [**🏆 Leaderboard**](https://mmmu-benchmark.github.io/#leaderboard) | [**🤗 TextAtlas**](https://huggingface.co/datasets/MMMU/MMMU_Pro) | [**📖 TextAtlas arXiv**](https://arxiv.org/abs/2409.02813)
 
 
 

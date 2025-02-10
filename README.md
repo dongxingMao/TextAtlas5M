@@ -156,7 +156,12 @@ Please refer to our detial annotion folders for detailed information on 2nd veri
 
 If you found our work useful, please consider citing:
 ```
-
+@inproceedings{wang2025large,
+            title={A Large-scale Dataset for Dense Text Image Generation},
+            author={ Alex Jinpeng Wang and  Jiawei Zhang and Dongxing Mao and weiming Han and Zhuobai Dong and Linjie Li and Yiqi Lin and Zhengyuan Yang and Libo Qin and Fuwei Zhang and Lijuan Wang and Min Li},
+            booktitle={Proceedings of CVPR},
+            year={2024},
+        }
 ```
 
 [//]: # (@article{zhu2023multimodal,)

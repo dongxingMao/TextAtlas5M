@@ -1,6 +1,8 @@
-# TextAtlas5M
 
 
+<p align="center">
+  # TextAtlas5M
+</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5e2c5c85-d38d-4a11-8872-e527c3ee8799" width="300">
 </p>

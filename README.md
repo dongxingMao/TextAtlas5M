@@ -148,9 +148,8 @@ Please refer to our detial annotion folders for detailed information on 2nd veri
 
 ## License
 
-[//]: # (- the new contributions of mmc4 beyond text-only c4 &#40;e.g., the similarity matrices/image-text alignments&#41; are released under [ODC-BY]&#40;https://opendatacommons.org/licenses/by/1-0/&#41;.)
-
-[//]: # (- By using mmc4, be aware of that you are also bound by the [Common Crawl terms of use]&#40;https://commoncrawl.org/terms-of-use/&#41;.)
+- the new contributions of TextAtlas are released under [ODC-BY](https://opendatacommons.org/licenses/by/1-0/).
+- By using TextAtlas, be aware of that you are also bound by the [Common Crawl terms of use](https://commoncrawl.org/terms-of-use/).
 
 ## Citation
 

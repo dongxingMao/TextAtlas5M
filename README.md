@@ -32,9 +32,8 @@ Please refer to our evaluation folders for detailed information on evaluating wi
 
 ## Data Format
 
-The file merged_data.json contains JSON Lines data, where each line is a single JSON object representing a prediction
-result. Each object includes fields such as image_path, plain_caption, total_image_caption, image_text (an array of
-text-related information), and topic.
+The TextAtlas annotation documentation is available in two versions. The first version includes the image paths and pre-integrated prompts, making it suitable for direct training or evaluation. The second version not only contains all the data from the first version but also includes intermediate results retained during the processing of different subsets, such as bounding boxes (bbox), font size, and other related information, to facilitate further utilization of the data.
+
 
 ```json
 {

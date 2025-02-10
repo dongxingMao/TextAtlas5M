@@ -3,13 +3,15 @@
 
 # TextAtlas5M
 
-[**🌐 Homepage**](https://mmmu-benchmark.github.io/) | [**🏆 Leaderboard**](https://mmmu-benchmark.github.io/#leaderboard) | [**🤗 TextAtlas**](https://huggingface.co/datasets/MMMU/MMMU_Pro) | [**📖 TextAtlas arXiv**](https://arxiv.org/abs/2409.02813)  
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5e2c5c85-d38d-4a11-8872-e527c3ee8799" width="300">
 </p>
 
 <h3 align="center"> A Large-scale Dataset for Dense Text Image Generation</h3>
+
+[**🌐 Homepage**](https://mmmu-benchmark.github.io/) | [**🏆 Leaderboard**](https://mmmu-benchmark.github.io/#leaderboard) | [**🤗 TextAtlas**](https://huggingface.co/datasets/MMMU/MMMU_Pro) | [**📖 TextAtlas arXiv**](https://arxiv.org/abs/2409.02813)  
+
+
 
 ## Updates
 

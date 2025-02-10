@@ -9,7 +9,7 @@
 
 <h3 align="center"> A Large-scale Dataset for Dense Text Image Generation</h3>
 
-[**🌐 Homepage**](https://mmmu-benchmark.github.io/) | [**🏆 Leaderboard**](https://mmmu-benchmark.github.io/#leaderboard) | [**🤗 TextAtlas**](https://huggingface.co/datasets/MMMU/MMMU_Pro) | [**📖 TextAtlas arXiv**](https://arxiv.org/abs/2409.02813)
+[**🌐 Homepage**](https://textatlas5m.github.io/) | [**🏆 Leaderboard**](https://textatlas5m.github.io/#leaderboard) | [**🤗 TextAtlas**](https://huggingface.co/datasets/MMMU/MMMU_Pro) | [**📖 TextAtlas arXiv**](https://arxiv.org/abs/2409.02813)
 
 This repo contains the evaluation code for the paper "[TextAtals](https://arxiv.org/abs/2409.02813)" 
 

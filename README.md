@@ -28,7 +28,7 @@ TextAtlas was meticulously designed to challenge and evaluate text-rich image ge
 ## Evaluation
 Please refer to our evaluation folders for detailed information on evaluating with TextAtlas benchmark:
 
-- [**TextAtlas Evaluation**]
+- [**TextAtlas Evaluation**](evaluation)
 
 ## Data Format
 

@@ -35,10 +35,26 @@ Please refer to our evaluation folders for detailed information on evaluating wi
 The TextAtlas annotation documentation is available in two versions. The first version includes the image paths and pre-integrated prompts, making it suitable for direct training or evaluation. The second version not only contains all the data from the first version but also includes intermediate results retained during the processing of different subsets, such as bounding boxes (bbox), font size, and other related information, to facilitate further utilization of the data.
 
 
+### For 1st version
 ```json
 {
   "image_path": "path to png",
-  "plain_caption": "A formal presentation hall with an audience attentively listening to a speaker at a podium, with a large screen displaying the text : <>.",
+  "annotation": "A formal presentation hall with an audience attentively listening to a speaker at a podium, with a large screen displaying the text : 'Furthermore, the research highlighted the critical role of climate-resilient infrastructure, such as irrigation systems and storage facilities, in supporting agricultural production and food security in the face of climate-related'."
+}
+```
+
+| entry                 | description                                                                                                                                                                            |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `image_path`          | `str`, path to png                                                                                                                                                                     |
+| `total_image_caption` | `str`, Full Description                                                                                                                                                                | 
+### For 2nd version
+Please refer to our detial annotion folders for detailed information on 2nd verision anntation:
+- [**TextAtlas Detailed Annotation**]
+
+```json
+{
+  "image_path": "path to png",
+  "annotation": "A formal presentation hall with an audience attentively listening to a speaker at a podium, with a large screen displaying the text : <>.",
   "total_image_caption": "A formal presentation hall with an audience attentively listening to a speaker at a podium, with a large screen displaying the text : 'Furthermore, the research highlighted the critical role of climate-resilient infrastructure, such as irrigation systems and storage facilities, in supporting agricultural production and food security in the face of climate-related'.",
   "image_text": [
     {

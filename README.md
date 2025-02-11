@@ -48,7 +48,7 @@ The TextAtlas annotation documentation is available in two versions:
 
 | entry                 | description                                                                                                                                                                            |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `image_path`          | `str`, path to png                                                                                                                                                                     |
+| `image_path`          | `str`, path to image                                                                                                                                                                     |
 | `total_image_caption` | `str`, Full Description                                                                                                                                                                | 
 
 ### For version2

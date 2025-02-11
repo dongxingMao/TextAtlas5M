@@ -121,10 +121,10 @@ Please refer to the [**TextAtlas Detailed Annotation**](detialed_annotation) for
 [//]: # (![MQpipeline]&#40;https://github.com/Carrot0729/hwmsRepo/blob/main/data-display-overall-w-ann-v2.svg&#41;)
 
 
-## License
+[//]: # ## License
 
-- the new contributions of TextAtlas are released under [ODC-BY](https://opendatacommons.org/licenses/by/1-0/).
-- By using TextAtlas, be aware of that you are also bound by the [Common Crawl terms of use](https://commoncrawl.org/terms-of-use/).
+[//]: # - the new contributions of TextAtlas are released under [ODC-BY](https://opendatacommons.org/licenses/by/1-0/).
+[//]: # - By using TextAtlas, be aware of that you are also bound by the [Common Crawl terms of use](https://commoncrawl.org/terms-of-use/).
 
 ## Citation
 

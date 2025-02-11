@@ -51,13 +51,10 @@ The TextAtlas annotation documentation is available in two versions:
 | `image_path`          | `str`, path to png                                                                                                                                                                     |
 | `total_image_caption` | `str`, Full Description                                                                                                                                                                | 
 
+### For version2
 In addition to the data from Version 1, Version 2 includes intermediate results retained during the processing of different subsets. These results provide useful metadata for further analysis, such as bounding boxes (bbox), font size, and other processing details.
 
 Please refer to the [**TextAtlas Detailed Annotation**] for more comprehensive details on the second version annotations.
-
-### For 2nd version
-Please refer to our detial annotion folders for detailed information on 2nd verision anntation:
-- [**TextAtlas Detailed Annotation**]
 
 
 ## Data Level, Datasets, and Annotations Overview

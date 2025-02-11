@@ -12,7 +12,7 @@ You can provide all the outputs in *one file* in the following format:
     "image_path": "str", # path to your generation image
     "original_image_path": "str", # path to the GT image
     "prompt": "", #  prompt to generate the image
-    "raw_text": "str", # GT text show in the image
+    "raw_text": "str", # GT text show in the image (used for OCR score)
 },
 ....
 ```

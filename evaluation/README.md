@@ -16,3 +16,9 @@ You can provide all the outputs in *one file* in the following format:
 },
 ....
 ```
+
+## calculate FID score
+
+## calculate CLIP score
+
+## calculate OCR related score

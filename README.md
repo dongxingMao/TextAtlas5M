@@ -44,7 +44,7 @@ The TextAtlas annotation documentation is available in two versions:
   "image_path": "path to the Image",
   "annotation": "A formal presentation hall with an audience attentively listening to a speaker at a podium, with a large screen displaying the text: 'Furthermore, the research highlighted the critical role of climate-resilient infrastructure, such as irrigation systems and storage facilities, in supporting agricultural production and food security in the face of climate-related'."
 }
-
+```
 
 | entry                 | description                                                                                                                                                                            |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

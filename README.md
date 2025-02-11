@@ -54,7 +54,7 @@ The TextAtlas annotation documentation is available in two versions:
 ### For version2
 In addition to the data from Version 1, Version 2 includes intermediate results retained during the processing of different subsets. These results provide useful metadata for further analysis, such as bounding boxes (bbox), font size, and other processing details.
 
-Please refer to the [**TextAtlas Detailed Annotation**] for more comprehensive details on the second version annotations.
+Please refer to the [**TextAtlas Detailed Annotation**](detialed_annotation) for more comprehensive details on the second version annotations.
 
 
 ## Data Level, Datasets, and Annotations Overview

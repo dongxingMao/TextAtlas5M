@@ -19,7 +19,22 @@ You can provide all the outputs in *one file* in the following format:
 
 ## calculate FID score
 
-
+```
+python cal_fid.py --json_file <json_path> --save_path <sava path>
+```
 ## calculate CLIP score
 
+```
+python cal_clip_score.py --json_file <json_path> --save_path <sava path>
+```
+
 ## calculate OCR related score
+
+To get OCR Accuracy and OCR F1 score, run:
+```
+python cal_ocr.py --json_file <json_path> --save_path <sava path>
+```
+After finishing the above command, you can get OCR CER score by runging:
+```
+python cal_ocr_cer.py --ocr_result_path <sava path in the above command>
+```
